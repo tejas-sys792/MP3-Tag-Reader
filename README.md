@@ -14,5 +14,3 @@ It reads and modifies **ID3v2.3 metadata** in `.mp3` files (Title, Artist, Album
 - C Programming
 - File Handling (binary I/O)
 - Modular Programming (`.c` and `.h` files)
-
-## 📂 Project Structure
